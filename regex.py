@@ -42,7 +42,7 @@ Se eliminan frases repedidas, saltos de línea y timestamps y caracteres especia
 
 # Upload CSV data
 with st.sidebar.header('1. Upload your txt file'):
-    input = st.sidebar.file_uploader("Upload your input txt file", type=["txt"])
+    input = st.sidebar.file_uploader("Upload your input txt file", type=["txt"],encoding='utf-8')
 
 
 # Pandas Profiling Report
