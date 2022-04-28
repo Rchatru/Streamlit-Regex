@@ -1,0 +1,1312 @@
+WEBVTT
+
+Kind: captions
+
+Language: es
+
+
+
+ 
+
+muchas gracias y bueno antes de todo
+
+pues agradecerte tanto a ti como a
+
+silver en la oportunidad porque en
+
+realidad llevo un poquito tiempo la
+
+institución no empecé el 1 de febrero
+
+con el programa ramón y cajal y bueno
+
+soy investigador ramón y cajal y bueno
+
+agradecer también a domina esto también
+
+no pues por el tema de que siga con este
+
+tipo de programas que no hacen más que
+
+fortalecer un poco la investigación a
+
+nivel nacional voy a intentar
+
+compartir enseguida la plantas
+
+[Música]
+
+en la presentación
+
+pero se ve la pantalla digamos lo que es
+
+la vista a la persona que
+
+está presentando
+
+ahora
+
+más vale bueno agradecer la verdad que
+
+el catedrático profesor don carmelo en
+
+la charla que ha dado porque la verdad
+
+que me lo ha puesto no a portagayola
+
+como decimos mujer
+
+qué hacer con el doctorado qué vamos a
+
+hacer con estos años de investigación a
+
+ustedes hoy en día lo tienen en cierto
+
+modo pues
+
+pues algo más sencillo porque tienen un
+
+tienen un tiempo limitado para hacer la
+
+tesis y nosotros nos pegábamos
+
+un montón de años y luego pues te veían
+
+en el tema de qué hago con todo con
+
+todas estas cosas que he hecho que he
+
+investigado
+
+esto sirve para algo se queda aquí
+
+encima de la mesa de un laboratorio o
+
+bueno aquí en el título de la
+
+presentación creación de start-up en el
+
+ámbito de google ese aquí hay dos dos
+
+palabras que se remarcan no estará que
+
+es esto de una start-up y luego google s
+
+básicamente qué es esto
+
+vlc
+
+mi línea de investigación las
+
+comunicaciones por luz visible y yo soy
+
+ingeniero y doctor en telecomunicación y
+
+siempre estuve trabajando en
+
+comunicaciones ópticas no guiadas lo de
+
+los del mando de la tele los de los
+
+diodos
+
+curiosamente a partir del año
+
+2000 2008 2009 yo trabajaba en el inta
+
+en el instituto nacional de técnicas
+
+espacial en madrid y en un proyecto con
+
+la agencia espacial europea y empezaron
+
+a aparecer estos diodos de visible
+
+estudio de luz blanca que hoy en día
+
+pues conforman pues básicamente toda la
+
+iluminación que tenemos en los edificios
+
+en casa por eficiencia por bajo consumo
+
+etcétera etcétera etcétera pero qué pasa
+
+que nosotros nos dimos cuenta que
+
+básicamente yo ese diodo lo puedo pues
+
+poner a funcionar en comunicaciones tal
+
+y como hacíamos con los diodos de
+
+infrarrojos quiero con los que
+
+trabajábamos antiguamente
+
+y entonces pues esto dio lugar a una
+
+trayectoria después de investigación
+
+las comunicaciones por luz visible lo
+
+que utilizan es el espectro visible de
+
+la luz pues para comunicar cogemos la
+
+lámpara la ponemos en conmutación la
+
+lámpara les la ponemos en computación y
+
+luego mediante unos receptores ópticos
+
+pues podemos recibir la información que
+
+estamos mandando obviamente contigo
+
+mezclo todo el espectro de colores lo
+
+que obtengo una lámpara de blanco no es
+
+una lámpara de luz blanca o incluso
+
+existen aplicaciones donde yo voy
+
+mezclando el rgb y pues tengo ahí
+
+distintos canales de comunicaciones con
+
+una misma al amparo con varias lámparas
+
+con esto hoy en día lo que está muy de
+
+moda es lo que es el concepto de la live
+
+y no el live fidelity que lo puso el
+
+profesor hard and haas en un test en el
+
+año 2012 2013
+
+parece que fue un poco el padre de la
+
+tecnología pero no es así esta
+
+tecnología viene de japón del profesor
+
+más ao nakagawa que realmente en los
+
+años
+
+2006-2007 cuando empezaron a aparecer
+
+los diodos blancos que todavía no habían
+
+llegado ya españa pues ya ya había hecho
+
+conjunto con combine algún experimento y
+
+de funcionamiento de que estas lámparas
+
+que ponían en el techo poder real en
+
+realmente funciona hacen como access
+
+pongo como punto de acceso como si
+
+fuesen de la de la wifi y luego pues
+
+obviamente lo que les comentaba antes no
+
+necesitamos no sólo ahora sino
+
+necesitamos los receptores ópticos aquí
+
+les pongo un vídeo de cómo sería una
+
+comunicación invisible ahí tendríamos la
+
+cámara un receptor óptico y ahí tenemos
+
+la lámpara que si ustedes ven pues en
+
+realidad en una luz blanca sin embargo
+
+lo que ve el receptor es exactamente
+
+estas líneas
+
+con esa línea yo puedo enviar datos
+
+y eso trató obviamente en una
+
+comunicación que yo puedo establecer
+
+cuáles son las posibles aplicaciones
+
+donde donde se utilizan los sistemas
+
+ópticos no guiados bueno aquí tengo una
+
+pequeña de transparencia desde resumen
+
+no pues tenemos tanto aplicaciones
+
+outdoors o sea en la calle como
+
+aplicaciones indoor que donde
+
+básicamente nosotros trabajamos al 75
+
+por ciento de las ocasiones no en autor
+
+nosotros hemos trabajado con sistemas
+
+cualquier coche con sistema cuya
+
+infraestructura utilizando los faros del
+
+coche de joe no de las patentes que yo
+
+tengo es mandar la diagnosis del coche a
+
+través de los faros sin tener que tener
+
+que meterla
+
+el conector de diagnosis a la centralita
+
+del coche
+
+comunicaciones debajo del agua
+
+tengo una doctoranda de que irán ahora
+
+en un programa marie curie que está
+
+haciendo la tesis conmigo en
+
+comunicaciones bajo el agua
+
+con la ya nombrada leaf y luego en
+
+comunicaciones indoor pues pues por
+
+supuesto tenemos el el mando de la tele
+
+de siempre las comunicaciones móvil a
+
+móvil y luego pues estas comunicaciones
+
+por pan
+
+de ancho de banda grande en el cual se
+
+establecería lo que es el dominio
+
+principal de la live
+
+esto ha sido básicamente mis líneas de
+
+investigación durante los últimos 15
+
+años el poder pasar de las
+
+comunicaciones ópticas e infrarrojas a
+
+las comunicaciones ópticas vlc pero
+
+bueno ahora lo que les comentaba y ahora
+
+que no porque tenemos hay un montón de
+
+tecnología encima de la mesa pero qué
+
+hacemos con eso no básicamente
+
+esto es que queremos
+
+pues vamos a intentar ganar dinero no
+
+vamos a intentar buscar la forma en que
+
+yo me piso pues todos esos años de
+
+experimentación de medidas de estar en
+
+el laboratorio encerrado
+
+y ver un poco como también por la
+
+vertiente científica del asunto como
+
+introducir eso en el mercado y que la
+
+gente lo puedo usar lo que no sea sólo
+
+un
+
+un producto de venado de laboratorio que
+
+mira mira lo bien que funcionan los
+
+anchos de banda que consiguen los bebés
+
+que consiguió sino que la gente lo puede
+
+llevar a utilizar y cómo hago eso pues
+
+básicamente
+
+cambiando mi conocimiento pues por
+
+alguna forma de llevar esto al mercado y
+
+esta es la el tema importante como llevo
+
+yo esto al mercado
+
+básicamente lo que tenemos que convertir
+
+nuestros distintos
+
+trastes distintas líneas de
+
+investigación en de mostradores o
+
+proyectos los cuales tengan algo para
+
+invertir en ellos
+
+nosotros
+
+cuando hablamos de startups que son
+
+empresas que empiezan luego darle la
+
+definición exacta de estar siempre
+
+seguimos los criterios de invertibilidad
+
+del profesor o jobson
+
+donde school of economics y el que
+
+normalmente pues especifica mejor cuál
+
+es el criterio y los tres las 6 puntos a
+
+tener en cuenta cuando nosotros queremos
+
+invertir en una idea una idea con un
+
+proyecto
+
+la primera de toda la viabilidad del
+
+mercado
+
+tiene que existir un mercado
+
+claro definido y existente
+
+no importa cuál sea el tamaño del
+
+mercado pero sí qué
+
+y tener la claridad que sea claro que yo
+
+puede llevar mi producto y que exista
+
+alguien que quiera comprarlo
+
+una cosa importante es que un mercado no
+
+es algo abstracto no es una demanda una
+
+necesidad no son un segmento de
+
+población como normalmente nos cuentan
+
+la gente además de marketing no no no no
+
+en este caso un mercado se parece un
+
+distinto electrónico nombre es teléfono
+
+y si puede ser la vuelta corriente pues
+
+mejor que mejor vale y ahí también
+
+tenemos la prueba de las diez facturas
+
+estos cuando nosotros vamos a
+
+a hablar con un inversor para que nos
+
+meta para está en la empresa para que
+
+nos ponga capital para poder seguir
+
+montando nuestros productos pues lo
+
+mejor que se le puede llevar es mira ya
+
+tengo 10 facturas ya tengo
+
+posibles compradores ya me han comprado
+
+y los antes tantos
+
+los segundos la ventaja competitiva vale
+
+aquí hablamos del concepto de
+
+emprendedor el emprendedor debe ser
+
+capaz de crear una ventaja competitiva
+
+de forma clara y creíble al siempre si
+
+el emprendedor dice que no tiene
+
+competencia es decir no tiene nadie que
+
+haga lo mismo que él es que
+
+probablemente no se haya enterado de
+
+cómo funciona el mercado o no haya hecho
+
+una búsqueda intensiva de qué es lo que
+
+hay en el mercado vale normalmente ya
+
+las soluciones
+
+ya están ahí pero nosotros podemos tener
+
+unas ventajas competitivas que lo que
+
+estamos buscando
+
+la competencia no se limita a una lista
+
+de competidores directo incluye todos
+
+los que quieran sacar un euro de la
+
+misma cara cartera que la estará vale
+
+hay que hacer una prospección del
+
+mercado y ver dónde tenemos nosotros
+
+nuestra ventaja competitiva con respecto
+
+a lo que dan
+
+los competidores en este caso una
+
+ventaja competitiva se podría definir
+
+como un recurso o circunstancia propia
+
+que nos garantiza el liderazgo el
+
+crecimiento por encima de nuestros
+
+competidores y cuál es la ventaja
+
+competitiva cuando nosotros queremos
+
+llevar nuestra investigación a una
+
+start-up o una empresa tener un cerebro
+
+adaptativo ser capaces de darle vueltas
+
+a esa idea e intentar pues que esa idea
+
+se amolde a la necesidad del cliente
+
+esto es una de las cosas más importantes
+
+y luego al final del ayer les comentaré
+
+por qué que en realidad me he dado
+
+cuenta por los últimos diez años
+
+intentando llevar pues por el concepto
+
+de investigación al mercado
+
+otro de los criterios la factibilidad o
+
+sea el equipo vale una buena idea
+
+necesitamos un equipo de gente 45
+
+personas a tiempo completo para poder
+
+llevarla a éxito vale es todo nuevo va
+
+de una persona que está en su casa y que
+
+de cinco a seis de la tarde empieza a
+
+escribir cosas oa intentar montar un
+
+determinado cacharro no no no esto aquí
+
+hace falta comprometerse y necesitamos
+
+gente comprometida y que quiera darle a
+
+la idea pues pues es una salida
+
+por supuesto este equipo tiene que estar
+
+en equilibrio hay que hay que tener
+
+distintas perfiles de gente trabajando
+
+en la idea no solo ingenieros
+
+científicos que lo que normalmente
+
+tenemos nosotros matemáticos etc no
+
+tenemos que tener gente que sepa que
+
+sean capaces de hablar con un banco y
+
+para intentar sacarle dinero tenemos
+
+necesitamos gente que sean especialistas
+
+en marketing que sean capaces de vender
+
+la idea y por supuesto la gente en
+
+tecnología
+
+y necesitamos un equilibrio y por
+
+supuesto debe haber un empresario dentro
+
+dentro del equipo un empresario es
+
+alguien que sabe contratar motivar que
+
+sabe despedir a la gente que eso suele
+
+ser complicado
+
+sabe cómo funciona un balance porque los
+
+inversores luego te van a pedir un
+
+balance de cuenta de todo lo que tú
+
+haces en la empresa para poder invertir
+
+en ti
+
+es necesario que sepa explicar ese
+
+balance y esta es la persona que
+
+normalmente suele hablar con los
+
+inversores
+
+es un emprendedor un visionario con
+
+mucha pasión y cerebro adaptativo con
+
+actitud científica y capaz de gestionar
+
+el riesgo del proyecto aquí volvemos a
+
+lo del cerebro adaptativo vale hay que
+
+saber adaptarse a las circunstancias
+
+saber sacar la oportunidad de cada una
+
+de las ideas que nosotros estamos
+
+intentando llevar al mercado
+
+el otro criterio pues sería el time vale
+
+la necesidad cubierta de la estada debe
+
+ser una necesidad real ahora para el
+
+mercado esto qué quiere decir si tu idea
+
+es muy buena pero es muy novedosa cuando
+
+tú llegas al mercado resulta que la
+
+gente no entiende la tecnología esto fue
+
+un poco lo que nos pasó a nosotros con
+
+la empresa en que nosotros montamos aquí
+
+en con él y de ti hace ya bastantes años
+
+que la vi se llama la empresa de luego
+
+le da la última parte de la presentación
+
+les diré un poco en lo que va la empresa
+
+porque llegamos al mercado muy temprano
+
+con la solución que nosotros habíamos
+
+desarrollado y entonces nos costó un
+
+montón de años el poder ir explicando a
+
+la gente que la tecnología existe que la
+
+tecnología funciona y que se podía usar
+
+y que le podían sacar partido
+
+por otro lado también tienen la
+
+estabilidad de la start-up qué quiere
+
+decir la estabilidad porque los
+
+inversores normalmente no sólo invierten
+
+en una sola estará invierten en varias
+
+startups entonces ellos tienen que ver
+
+que tú estar a tu pequeña empresa es
+
+capaz de ser invertible en el sentido de
+
+que le vas a dar en poco tiempo una alta
+
+revalorización una devolución de lo que
+
+ellos van a invertir en ti entonces esto
+
+hay que tenerlo en cuenta para
+
+establecer un poco la estrategia de
+
+poder conseguir pues esa inversión no es
+
+que tu empresa
+
+sea capaz de darle una alta
+
+revalorización de lo que el inversor
+
+pues va a poner en tu empresa y por
+
+último alexis que sería alexis pues el
+
+inversor tiene que ver una estrategia de
+
+salida del proyecto un inversor llega
+
+con un dinero y es lo que quieres pues
+
+en
+
+45 10 años normalmente suelen ser
+
+periodos cortos 56 años él quiere que le
+
+devuelva su dinero comunidad
+
+entonces es lo que tiene que ver es un
+
+poco esa posibilidad de éxito y eso es
+
+una estrategia que hay que también
+
+pensar un poco dentro de tu empresa o de
+
+tu start up para poder ofrecerle a los
+
+inversores vale normalmente para los
+
+inversores esto es una carrera de
+
+relevos ellos tienen en cartera 5 o 6 10
+
+20 empresas y ellos van cambiando ellos
+
+saben a priori que estas start apps
+
+muchas de ellas mueren al 80 por ciento
+
+pero con que una sola o dos sola de
+
+ellas les den suficientes beneficios ya
+
+con eso para ellos es suficiente negocio
+
+vale para un emprendedor sin embargo
+
+esto es una maratón es decir tú te vas a
+
+seguir a estar peleando ahí fijos pues
+
+con los distintos inversores con los
+
+proveedores con los clientes para
+
+intentar pues montaron
+
+y llevar a cabo tu idea
+
+la definición de una start-up una
+
+organización que realiza un experimento
+
+social cuyo objetivo es encontrar una
+
+fórmula de éxito que le permita ser
+
+sostenible y escalable fíjense que en
+
+ningún momento he puesto aquí empresa
+
+una start-up es una organización por eso
+
+de cuatro o cinco personas que lo que
+
+van a intentar es
+
+si consigues la fórmula del éxito o sea
+
+su modelo de negocio cuando una start-up
+
+pone en marcha un producto no es el
+
+producto lo que está intentando vender
+
+es el modelo de negocio y eso es una de
+
+las cosas más importantes los
+
+probablemente que yo aprendía en estos
+
+años vale a mí no me vale de nada tener
+
+un cacharro una cerradura por ejemplo
+
+que luego se las presentaré que funcione
+
+que la gente pueda ser capaz de usar si
+
+no les les doy claramente cómo van a
+
+ganar dinero con eso
+
+en contra una empresa no es más que una
+
+máquina de fotocopiar una o más fórmulas
+
+de éxito o sea es una empresa al final
+
+lo que hace es copiar la fórmula de
+
+éxito de la start-up y ponerla en
+
+producción sacando un montón de copia
+
+esto sería pues la transparencia un poco
+
+de cómo pasamos de una start-up
+
+escalable el periodo de transición a la
+
+compañía básicamente nos montamos en su
+
+modelo de negocio vale aquí hay un
+
+profesor
+
+steve blank que fue un poco el precursor
+
+de la línea start-up que es el 5 del
+
+ciclo de start-up
+
+hay que recordar que una start-up no es
+
+una empresa pequeña o que arranca una
+
+start-up no es más que un experimento
+
+sociológico y que estamos buscando la
+
+fórmula la fórmula del éxito de poder
+
+vender una idea o un modelo de negocio
+
+básicamente el ciclo de la start-up de
+
+cómo funciona la start-up por lo
+
+tendrían a quién sería a partir de una
+
+idea o un modelo de negocio que nosotros
+
+tenemos construimos un mp un producto
+
+mínimo viable y ese producto
+
+directamente pues lo mandamos al mercado
+
+o los mandamos a consumidores vale sobre
+
+ese producto sobre ese modelo de negocio
+
+que nosotros tenemos hacemos medidas
+
+captamos datos y vamos aprendiendo de
+
+cómo funciona pues nuestro modelo de
+
+negocio si es bueno o si es malo vale
+
+ese modelo lo vamos mejorando a partir
+
+de iteraciones en nuestro ciclo de
+
+líneas tara
+
+una estará se considera viable cuando en
+
+algún momento encuentra su punto de
+
+equilibrio y se paga a sí misma es decir
+
+los ingresos superan a los costes
+
+completos en este caso siempre hay tres
+
+posibles destinos para una estada en la
+
+cual se ha invertido en la cual un
+
+inversor ha puesto dinero una vez la
+
+quiebra la estará mueve y se cierra se
+
+pierde la inversión por completo aquí en
+
+españa yo creo que en start up estaremos
+
+sobre un 85 90 por ciento pero bueno
+
+de quiebras las start-up son muy
+
+poquitas las que sobreviven luego
+
+tenemos pues el estado zombis la
+
+start-up es capaz de pagar nóminas de
+
+mantenerse pero no es capaz de devolver
+
+el dinero que ha absorbido de los
+
+distintos inversores y que ese dinero
+
+está ahí pero no se puede dar el
+
+inversor y por último el éxito que la
+
+start-up devuelve todo lo invertido todo
+
+invertido y los intereses a los
+
+distintos inversores en este caso
+
+estamos hablando del éxito de gastar
+
+como ejemplo pues les pongo la start-up
+
+que creamos con el 2012 the light be a
+
+partir de los desarrollos que teníamos
+
+en el instituto y de ti
+
+y bueno básicamente de todas las líneas
+
+de investigación un poco que teníamos la
+
+que encontramos más apetecibles de cara
+
+al mercado de llevar el modelo de
+
+negocio al mercado fue el del like vale
+
+es un no es más que una cerradura
+
+electrónica
+
+que en vez de a habilitarse con una
+
+tarjeta ref y de lo hacemos pues con la
+
+pantalla del móvil mediante unos códigos
+
+ópticos que directamente hace que se que
+
+se abra pues la cerradura entonces el
+
+cliente se baja la aplicación ley que
+
+introduce ese usuario y contraseña y le
+
+aparecen directamente las distintas
+
+llaves que él puede abrir de la
+
+cerradura
+
+cuando va a las cerraduras simple y
+
+llanamente pone la pantalla del móvil
+
+delante del receptor óptico y entonces
+
+pues se ejecuta
+
+el programa y lanza del código óptico
+
+para para entrar y ver si está
+
+habilitado pues abrirá y si no pueda
+
+hacer
+
+básicamente nosotros lo que hicimos fue
+
+un estudio de mercado de estas
+
+cerraduras electrónicas referí de
+
+bluetooth etcétera etcétera etcétera y
+
+vimos que tenía una especie de ventaja
+
+competitiva con poder utilizar pues
+
+estas comunicaciones ópticas con la
+
+pantalla y con el led del móvil para
+
+poder abrir por la cerradura empezamos a
+
+hacer los desarrollos
+
+básicamente pues
+
+empezamos a vender algunas unidades que
+
+tenemos instaladas por ahí funcionales
+
+a partir de ahí vimos que el modelo de
+
+negocio se podía
+
+a ser más grande mediante pues el uso en
+
+los faros de los coches y entonces pues
+
+también tenemos algunos sistemas en
+
+faros de coches que abren las puertas de
+
+garaje e incluso se identifican al coche
+
+hemos tenido distintos proyectos
+
+europeos que ha sido pues básicamente el
+
+mayor éxito de la empresa de poder
+
+acceder a financiación europea con
+
+distintos partners europeos y en
+
+distintas partes de europa
+
+estamos hablando de cerca de 2 millones
+
+y medio de euros
+
+de financiación europea que hemos
+
+conseguido para los distintos proyectos
+
+que ha tenido light beat
+
+y una de las cosas importantes también
+
+dentro de la start-up es el poder ir a
+
+asturias congresos etcétera etcétera
+
+etcétera porque tú tienes que dar a
+
+conocer tus modelos de negocio y tus
+
+productos y que la gente pues pues te
+
+conozca vale en este caso pues el tema
+
+de todo este marketing que se ha
+
+realizado durante años nos ha servido un
+
+poco para darle un impulso y un
+
+conocimiento por internacional a la
+
+empresa
+
+sin más pues
+
+aquí he terminado mi presentación y
+
+quedo un poco pues a la espera de sus
+
+preguntas espero no haberme alargado
+
+demasiado intentado
+
+pues ir a un poco en tiempo y bueno
+
+comentarles también que allí en la
+
+universidad de la laguna un caso muy
+
+bien conocido de empresa que está que
+
+boutiques no que todos ustedes conocen
+
+también y bueno es pues otra salida que
+
+tienen ustedes también para el tema de
+
+la investigación en el apasionante mundo
+
+empresarial y el de la emprendeduría
+
+muchas gracias
+
+es muy interesante
+
+nota no tanto también la parte de la
+
+investigación que vemos que además han
+
+sido proyectos desarrollados con algo ya
+
+completamente aplicar o no si no tu
+
+experiencia dentro del gastará y bueno
+
+un poco toda esa batalla que han llevado
+
+a cabo
+
+alguien tiene alguna pregunta a lo que
+
+quiera
+
+si julio muchas gracias por la charla
+
+cuáles son las posibilidades de hackear
+
+este tipo de comunicación
+
+en principio son complicadas porque los
+
+receptores están hechos a medida para
+
+las distintas modulaciones que
+
+que uno monta en el emisor es decir aquí
+
+ya que hable esto es decir al final
+
+tenemos allí a mil millones de chinos
+
+que los pones ahí con un receptor óptico
+
+a probar todas las combinaciones y
+
+alguna dará pero sí que la verdad que
+
+ahora mismo el nivel de seguridad física
+
+que tenemos en
+
+por ejemplo en el producto de like y que
+
+es bastante es bastante bueno vale las
+
+pruebas que nosotros hemos hecho pues
+
+pues tiene tiene su dificultad para el
+
+tema por ejemplo de la live y tengo aquí
+
+precisamente en uno de los proyectos
+
+europeos en el que estoy en el helio y
+
+tenemos el sistema este de fraunhofer
+
+vale como nosotros hemos puesto algo de
+
+firmware dentro del sistema y ya esté
+
+aquí lo que se utiliza una o fm con dos
+
+mil 546 portadoras y a la ofcm por si ya
+
+es bastante segura intrínsecamente es
+
+muy complicado de la matriz d
+
+de computación de la ofcm el poder
+
+descifrar la la
+
+información pero si encima le ponemos
+
+alguna cápita más de seguridad cualquier
+
+es complicadísimo
+
+también decir que claro cuando hablamos
+
+de comunicaciones indoor como la luz
+
+está confinada entre las paredes
+
+ya de por si encima tenemos una extra de
+
+seguridad que no lo da la propia
+
+naturaleza física de la luz entonces
+
+claro la gente me dice nada pongo un
+
+telescopio me pongo desde el otro
+
+edificio hombre siempre estar las
+
+cortinas
+
+pero aquí lo realmente interesante es
+
+que conseguimos buena velocidad de
+
+transmisión no el módulo este son dos
+
+gigabytes por segundo lo que consigo con
+
+200 megas de ancho de banda o sea
+
+ay qué
+
+y físicamente la seguridad es buena lo
+
+que pasa que como siempre ningún sistema
+
+es totalmente seguro
+
+y
+
+pregunta
+
+carlos tener una palabra a esta pregunta
+
+y entiende
+
+julio
+
+y este tipo de comunicación por luz para
+
+ser utilizado submarino como yo entiendo
+
+que el agua esté
+
+filtra
+
+distintas bandas lumínica no sé
+
+pero si me consta por ejemplo que el mar
+
+del norte
+
+entre suecia y alguna de las plataformas
+
+petroleras si establecen comunicaciones
+
+submarinas porque muchas veces tienen
+
+problemas con el mar del norte muy
+
+picado muy violento
+
+y tenían un láser para poner un láser
+
+verde en el entonces para comunicarse
+
+con la estación en forma submarina
+
+entonces este muchas veces
+
+me preocupa la posibilidad de tener un
+
+lobo para salvarse del umbilical de
+
+alguna manera y poder establecer
+
+comunicaciones si yo me manejas
+
+únicamente por ejemplo con el azul
+
+ss ss de hecho los experimentos que
+
+nosotros tenemos aquí de hecho yo tengo
+
+una una chica de irán con una beca marie
+
+curie que está haciendo la tesis conmigo
+
+y estamos trabajando en comunicaciones
+
+underwater
+
+entre el azul y el verde es cuando mejor
+
+lo tiene
+
+es cuando menos atenúa el agua
+
