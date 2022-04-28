@@ -61,6 +61,8 @@ if input is not None:
             out += "\n"
             completed_lines_hash.add(hashValue)
     st.write(out)
+    with st.sidebar.header('2. Download processed txt file'):
+        st.download_button('Download file', out)
     
 
 else:
@@ -89,7 +91,8 @@ else:
                 out += "\n"
                 completed_lines_hash.add(hashValue)
         st.write(out)
+        with st.sidebar.header('2. Download processed txt file'):
+            st.download_button('Download file', out)
 
 
-with st.sidebar.header('2. Download processed txt file'):
-    st.download_button('Download file', out)
+
