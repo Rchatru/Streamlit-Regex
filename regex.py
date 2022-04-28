@@ -10,6 +10,7 @@ import streamlit as st
 
 
 completed_lines_hash = set()
+out = ""
 # output_file = open(output_file_path, "w")
 
 # input = open(input_file_path, "r", encoding='utf-8')
