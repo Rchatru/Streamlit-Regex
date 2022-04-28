@@ -59,7 +59,7 @@ if input is not None:
             out = line + "\n"
             completed_lines_hash.add(hashValue)
             st.write(out)
-            # st.download_button('Download file', out)
+            st.download_button('Download file', out)
 
 else:
 
