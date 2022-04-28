@@ -30,11 +30,12 @@ for line in input:
         
 # Web App Title
 st.markdown('''
-# **The EDA App**
+# **The Regex wizard!**
 
-This is the **EDA App** created in Streamlit using the **pandas-profiling** library.
+Esta aplicación permite importar archivos de texto extraídos de subtítulos de videos de YouTube y realizar una limpieza para obtener finalmente un txt limpio y legible.
+Se eliminan frases repedidas, saltos de línea y timestamps y caracteres especiales de separación.
 
-**Credit:** App built in `Python` + `Streamlit` by [Chanin Nantasenamat](https://medium.com/@chanin.nantasenamat) (aka [Data Professor](http://youtube.com/dataprofessor))
+**Credit:** App built in `Python` + `Streamlit` by [Roberto](https://github.com/rchatru)
 
 ---
 ''')
@@ -43,17 +44,20 @@ This is the **EDA App** created in Streamlit using the **pandas-profiling** libr
 with st.sidebar.header('1. Upload your txt file'):
     uploaded_file = st.sidebar.file_uploader("Upload your input txt file", type=["txt"])
 
+
 # Pandas Profiling Report
 if uploaded_file is not None:
-    @st.cache
-    def load_txt():
-        txt = open(input_file_path, "r", encoding='utf-8')
-        return txt
-    df = load_txt()
+    for line in uploaded_file:
+        st.write(line)
+    # @st.cache
+    # def load_txt():
+    #     txt = open(input_file_path, "r", encoding='utf-8')
+    #     return txt
+    # df = load_txt()
     
-    st.header('**Input DataFrame**')
-    st.write(txt)
-    st.write('---')
+    # st.header('**Input DataFrame**')
+    # st.write(txt)
+    # st.write('---')
 
 
 input.close()
