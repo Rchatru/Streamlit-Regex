@@ -1,3 +1,4 @@
+from io import StringIO
 import re
 import hashlib
 import streamlit as st
@@ -48,8 +49,8 @@ with st.sidebar.header('1. Upload your txt file'):
 
 # Pandas Profiling Report
 if input is not None:
-
-    for line in input:
+    string_in = StringIO(input.read().decode('utf-8'))
+    for line in string_in:
         line = str(line)
         line = re.sub(r'(<[^>]+>)|(0[^%]+%)',"", line)
         line = line.replace("\\n", "")
