@@ -61,7 +61,7 @@ if input is not None:
             out += "\n"
             completed_lines_hash.add(hashValue)
     st.write(out)
-    st.download_button('Download file', out)
+    
 
 else:
 
@@ -75,7 +75,21 @@ else:
     # display the name when the submit button is clicked
     # .title() is used to get the input text string
     if(st.button('Submit')):
-        result = name.title()
+        string_in = name.title()
         st.success('Correcto')
 
+        for line in string_in:
+            line = str(line)
+            line = re.sub(r'(<[^>]+>)|(0[^%]+%)',"", line)
+            line = line.replace("\\n", "")
 
+            hashValue = hashlib.md5(line.encode('utf-8')).hexdigest()
+            if hashValue not in completed_lines_hash:
+                out += line
+                out += "\n"
+                completed_lines_hash.add(hashValue)
+        st.write(out)
+
+
+with st.sidebar.header('2. Download processed txt file'):
+    st.download_button('Download file', out)
