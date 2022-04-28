@@ -42,7 +42,7 @@ Se eliminan frases repedidas, saltos de línea y timestamps y caracteres especia
 
 # Upload CSV data
 with st.sidebar.header('1. Upload your txt file'):
-    input = st.sidebar.file_uploader("Upload your input txt file", type=["txt"],encoding='utf-8')
+    input = st.sidebar.file_uploader("Upload your input txt file", type=["txt"])
 
 
 # Pandas Profiling Report
@@ -58,9 +58,22 @@ if input is not None:
             # out.write(line)
             # out.write("\n")
             completed_lines_hash.add(hashValue)
-            st.write(line)
+            st.write(line,'utf-8')
             # st.download_button('Download file', out)
 
+else:
 
+    # Text Input
+    
+    # save the input text in the variable 'name'
+    # first argument shows the title of the text input box
+    # second argument displays a default text inside the text input area
+    name = st.text_input("Enter text for processing", "Type Here ...")
+    
+    # display the name when the submit button is clicked
+    # .title() is used to get the input text string
+    if(st.button('Submit')):
+        result = name.title()
+        st.success(result)
 
 
