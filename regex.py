@@ -56,7 +56,7 @@ if input is not None:
 
         hashValue = hashlib.md5(line.encode('utf-8')).hexdigest()
         if hashValue not in completed_lines_hash:
-            out = out + line + "\n"
+            out = line + "\n"
             completed_lines_hash.add(hashValue)
             st.write(out)
             # st.download_button('Download file', out)
