@@ -82,7 +82,7 @@ else:
 
         for line in string_in:
             line = str(line)
-            line = re.sub(r'(<[^>]+>)|(0[^%]+%)',"", line)
+            line = re.sub(r'(<[^>]+>)|(0[^%]+%)|([0-9]+:[0-9]+)',"", line)
             line = line.replace("\\n", "")
 
             hashValue = hashlib.md5(line.encode('utf-8')).hexdigest()
