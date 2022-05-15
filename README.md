@@ -37,9 +37,7 @@ Kind: captions
 Language: es
 
 muchas gracias y bueno antes de todo
-
 pues agradecerte tanto a ti como a
-
 silver en la oportunidad porque en
 ````
 
