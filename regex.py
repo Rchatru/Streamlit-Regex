@@ -36,7 +36,8 @@ if input is not None:
             out += "\n"
             completed_lines_hash.add(hashValue)
     st.write(out)
-    with st.sidebar.header('2. Download processed txt file'):
+    with st.sidebar:
+        st.header('2. Download processed txt file')
         st.download_button('Download file', out)
     
 
@@ -47,13 +48,13 @@ else:
     # save the input text in the variable 'name'
     # first argument shows the title of the text input box
     # second argument displays a default text inside the text input area
-    name = st.text_input("Enter text for processing (disabled)")
+    text = st.text_area("Enter text for processing (disabled)")
     
     if(st.button('Submit')):
-        string_in = name.title()
+        st.write(text)
         st.success('Correcto')
 
-        for line in name:
+        for line in text:
             line = str(line)
             line = re.sub(r'(<[^>]+>)|(0[^%]+%)|([0-9]+:[0-9]+)',"", line)
             line = line.replace("\\n", "")
@@ -64,7 +65,8 @@ else:
                 out += "\n"
                 completed_lines_hash.add(hashValue)
         st.write(out)
-        with st.sidebar.header('2. Download processed txt file'):
+        with st.sidebar:
+            st.header('2. Download processed txt file')
             st.download_button('Download file', out)
 
 
