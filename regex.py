@@ -51,7 +51,6 @@ else:
     text = st.text_area("Enter text for processing")
     
     if(st.button('Submit')):
-        st.write(len(text),text)
         st.success('Correcto')
 
         text = str(text)
