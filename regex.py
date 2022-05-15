@@ -58,11 +58,12 @@ else:
         text = re.sub(r'(<[^>]+>)|(0[^%]+%)|([0-9]+:[0-9]+)',"", text)
         text = text.replace("\\n", "")
 
-        hashValue = hashlib.md5(text.encode('utf-8')).hexdigest()
-        if hashValue not in completed_lines_hash:
-            out += text
-            out += "\n"
-            completed_lines_hash.add(hashValue)
+        for line in text.splitlines():
+            hashValue = hashlib.md5(line.encode('utf-8')).hexdigest()
+            if hashValue not in completed_lines_hash:
+                out += line
+                out += "\n"
+                completed_lines_hash.add(hashValue)
         st.write(out)
         with st.sidebar:
             st.header('2. Download processed txt file')
