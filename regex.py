@@ -48,10 +48,11 @@ else:
     # save the input text in the variable 'name'
     # first argument shows the title of the text input box
     # second argument displays a default text inside the text input area
-    text = st.text_area("Enter text for processing (disabled)")
+    text = st.text_area("Enter text for processing")
     
     if(st.button('Submit')):
-        st.write(text)
+      for lines in text:
+          st.write(lines)
         st.success('Correcto')
 
         text = str(text)
