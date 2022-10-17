@@ -30,7 +30,7 @@ pues agradecerte tanto a ti como a
 
 Después de la limpieza: 
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/rchatru/streamlit-regex/regex.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yt-regex.streamlitapp.com/)
 ````
 WEBVTT
 
