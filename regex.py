@@ -2,12 +2,27 @@ from io import StringIO
 import re
 import hashlib
 import streamlit as st
+from youtube_transcript_api import YouTubeTranscriptApi
+
 
 completed_lines_hash = set()
 out = ""
   
-
-
+def text_processing(string_in, completed_lines_hash):
+    for line in string_in:
+        line = str(line)
+        line = re.sub(r'(<[^>]+>)|(0[^%]+%)|([0-9]+:[0-9]+)',"", line)
+        line = line.replace("\\n", "")
+        
+        for line in text.splitlines():
+            hashValue = hashlib.md5(line.encode('utf-8')).hexdigest()
+            if hashValue not in completed_lines_hash:
+                out += line
+                out += "\n"
+                completed_lines_hash.add(hashValue)
+        st.write(out)
+    return out
+ 
 before='''WEBVTT
 Kind: captions
 Language: es
@@ -70,17 +85,9 @@ with st.sidebar.header('1. Upload your txt file'):
 
 if input is not None:
     string_in = StringIO(input.read().decode('utf-8'))
-    for line in string_in:
-        line = str(line)
-        line = re.sub(r'(<[^>]+>)|(0[^%]+%)|([0-9]+:[0-9]+)',"", line)
-        line = line.replace("\\n", "")
-
-        hashValue = hashlib.md5(line.encode('utf-8')).hexdigest()
-        if hashValue not in completed_lines_hash:
-            out += line
-            out += "\n"
-            completed_lines_hash.add(hashValue)
-    st.write(out)
+    
+    out = text_processing(string_in)
+    
     with st.sidebar:
         st.header('2. Download processed txt file')
         st.download_button('Download file', out)
@@ -95,23 +102,25 @@ else:
     # second argument displays a default text inside the text input area
     text = st.text_area("Enter text for processing")
     
+    with st.form("yt_url"):
+        st.write("Or paste the video URL")
+        url = st.text_input('Youtube video URL')
+
+        # Every form must have a submit button.
+        submitted = st.form_submit_button("Submit")
+        if submitted:
+            text = YouTubeTranscriptApi.get_transcript("submitted")
+            out = text_processing(text, completed_lines_hash)
+            
+            with st.sidebar:
+                st.header('2. Download processed txt file')
+                st.download_button('Download file', out)
+    
     if(st.button('Submit')):
         st.success('Correcto')
 
-        text = str(text)
-        text = re.sub(r'(<[^>]+>)|(0[^%]+%)|([0-9]+:[0-9]+)',"", text)
-        text = text.replace("\\n", "")
-
-        for line in text.splitlines():
-            hashValue = hashlib.md5(line.encode('utf-8')).hexdigest()
-            if hashValue not in completed_lines_hash:
-                out += line
-                out += "\n"
-                completed_lines_hash.add(hashValue)
-        st.write(out)
+        text_processing(text, completed_lines_hash)
+        
         with st.sidebar:
             st.header('2. Download processed txt file')
             st.download_button('Download file', out)
-
-
-
